@@ -1,0 +1,10 @@
+torch>=1.10    
+numpy
+scipy
+pandas
+scikit-learn
+fastapi
+uvicorn
+matplotlib
+openpyxl
+xgboost
