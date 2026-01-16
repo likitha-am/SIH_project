@@ -1,5 +1,5 @@
 ## AI-Driven Frequency Response Analysis (FRA) for Power Transformers
-SIH 2025 – Grand Finale Project
+SIH 2025 – Grand Finale Project(held at Marri Laxmi Institute of technology and management, Hyderabad)
 ## Project Overview
 
 Frequency Response Analysis (FRA) is a vital diagnostic technique used to evaluate the mechanical and electrical condition of power transformers. Conventional FRA analysis relies heavily on expert interpretation and multiple fragmented tools, making the process slow and subjective.
