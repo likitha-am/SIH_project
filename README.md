@@ -40,7 +40,7 @@ Signal Processing: Frequency Response Analysis techniques
 
 Backend: Python-based processing engine
 
-Frontend/UI: Unified analytical dashboard
+Frontend/UI: React
 
 Dataset: Transformer FRA response data
 
