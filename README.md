@@ -1,4 +1,4 @@
-##AI-Driven Frequency Response Analysis (FRA) for Power Transformers
+## AI-Driven Frequency Response Analysis (FRA) for Power Transformers
 SIH 2025 – Grand Finale Project
 ## Project Overview
 
